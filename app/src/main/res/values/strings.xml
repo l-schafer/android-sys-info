@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">System Information</string>
+    <string name="pref_title_theme">Toggle Theme</string>
+    <string name="settings">Options</string>
+    <string name="battery">Battery</string>
+    <string name="storage">Storage</string>
+    <string name="device">Device</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="refresh">Refresh Content</string>
+    <string name="ram">RAM</string>
+    <string name="nearby_devices">Nearby Devices</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="cpu">CPU</string>
+    <string name="cellular">Cellular</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="apps">Apps</string>
+</resources>
