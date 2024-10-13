@@ -10,6 +10,7 @@ Permissions Viewer is primarily designed for educational purposes. It allows use
 - View data collected based on granted permissions.
 - Explore how different permissions impact data accessibility.
 - User-friendly interface for easy navigation.
+- ``I do not have the free time to maintain this application. Don't anticipate maintenance or feature updates.``
 
 ## Installation
 1. Clone this repository:
@@ -18,19 +19,13 @@ Permissions Viewer is primarily designed for educational purposes. It allows use
     ```
 2. Open the project in Android Studio.
 3. Build and run the app on your device or emulator.
-- NOTE: This application supports API 34. Compatability was initially maintained with Android 8.1, but is unknown at the current state.
-
-## Usage
-1. Open the app on your Android device.
-2. Navigate to your device's settings and locate the app permissions.
-3. Toggle permissions to see the changes in the data collection.
+- NOTE: This application supports API 34. Compatibility was initially maintained with Android 8.1, but is unknown at the current state.
 
 ## Data Privacy
-This application does not store or transmit data. It neither recieves nor sends network traffic, and does not contain any mechanism to do so.
+This application does not store or transmit data. It neither receives nor sends network traffic, and does not contain any mechanism to do so.
 
 ## Contributing
-Contributions are welcome! If you have suggestions or improvements, feel free to fork this repository and submit a pull request.
-Please do not expect bug fixes, or new features. I do not have the free time to maintain this application.
+If you have suggestions or improvements, feel free to fork this repository and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
