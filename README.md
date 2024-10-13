@@ -3,8 +3,8 @@
 ## Overview
 Permissions Viewer is primarily designed for educational purposes. It allows users to explore the information accessible by applications through the Android permissions framework. By toggling permissions in the Android settings, users can observe the difference in the data that the app can collect.
 
-![msedge_W68w44VfAf](https://github.com/user-attachments/assets/da2dce15-3a08-48e4-9a9c-93230e51627a)
-![msedge_EhsPlHrw73](https://github.com/user-attachments/assets/41a727cc-6ce6-41bd-a356-f8df741470d5)
+![main](https://raw.githubusercontent.com/l-schafer/android-sys-info/refs/heads/main/.media/main.jpg)
+![bluetooth](https://raw.githubusercontent.com/l-schafer/android-sys-info/refs/heads/main/.media/bluetooth.jpg)
 
 ## Features
 - View data collected based on granted permissions.
